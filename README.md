@@ -1,3 +1,5 @@
+> Curated learning fork maintained by [Mudit Dholakia](https://github.com/muditdholakia). Original authorship: [microsoft/fabric-data-agent-workshop](https://github.com/microsoft/fabric-data-agent-workshop). See [your learning plan](CURATOR_README.md) and [security audit](CURATOR_SECURITY.md). Upstream license and copyright notices are retained.
+
 # Getting Started with Data Agents
 
 Build a governed Microsoft Fabric Data Agent, prepare a semantic model for AI,
